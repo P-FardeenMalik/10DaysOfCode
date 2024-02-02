@@ -8,3 +8,7 @@ I am taking 100 days of coding challenge from 1st Feb 2024. In this challenge I 
 # Day 1
 
 Completed a project Role Playing Game from freecodecamp. In this practice project, I have learned fundamental programming concepts in JavaScript by coding own Role Playing Game. I have learned how to work with arrays, strings, objects, functions, loops, if/else statements, and more.
+
+# Day 2
+
+Completed Calorie Counter project from freecodecamp. In this calorie counter project, I have learned how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results. In this practice project, I have learned basic regular expressions, template literals, the addEventListener() method, and more.
