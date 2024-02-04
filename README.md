@@ -16,3 +16,7 @@ Completed Calorie Counter project from freecodecamp. In this calorie counter pro
 # Day 3
 
 Completed designing part of my Music player project from freecodecamp. In this music player project Now diving into JavaScript to implement play, pause, and song navigation functionalities. Created an array to store songs and initialized a userData object to track the current song and time. Excited about the progress
+
+# Day 4
+
+Completed Music player project from freecodecamp. In this project, I have programed a basic MP3 player using HTML, CSS, and JavaScript. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. I have even learn how to dynamically update your user interface based on the current song.
