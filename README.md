@@ -24,3 +24,7 @@ Completed Music player project from freecodecamp. In this project, I have progra
 # Day 5
 
 Completed Date Formatter project from freecodecamp. Working with dates in JavaScript can be challenging. I have to navigate various methods, formats, and time zones. In this project, I have learned how to work with the JavaScript Date object, including its methods and properties. I have also learn how to correctly format dates.
+
+# Day 6
+
+Completed Palindrom Checker project from freecodecamp. I have build an application that checks whether a given word is a Palindrom checker.
