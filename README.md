@@ -27,4 +27,4 @@ Completed Date Formatter project from freecodecamp. Working with dates in JavaSc
 
 # Day 6
 
-Completed Palindrom Checker project from freecodecamp. I have build an application that checks whether a given word is a Palindrom checker.
+Completed Palindrom Checker project from freecodecamp. I have build an application that checks whether a given word is a Palindrom.
