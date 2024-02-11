@@ -32,3 +32,7 @@ Completed Palindrom Checker project from freecodecamp. I have build an applicati
 # Day 7
 
 Completed Football Team Card project from freecodecamp. One common aspect of building web applications: processing datasets, and then outputting information to the screen. In this sports team cards project, I have learn how to work with DOM manipulation, object destructuring, event handling, and data filtering. This project will cover concepts like switch statements, default parameters, Object.freeze(), the map() method, and more.
+
+# Day 8
+
+Completed Todo App project from freecodecamp. In this TODO application, I have learnt how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
