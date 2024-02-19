@@ -44,3 +44,7 @@ Completed Decimal to Binary converter project. Recursion is a programming concep
 # Day 10
 
 Completed the backend of the Ethereum Staking dApp on the Sepolia Network project
+
+# Day 11
+
+Completed Staking dApp project, a fully functional Ethereum Staking dApp on the Sepolia Network.
